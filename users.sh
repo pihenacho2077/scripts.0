@@ -10,6 +10,8 @@ if
 
 	[ $? -eq 0 ]
 
+then
+
 		echo "account exist" 
 
 else 
